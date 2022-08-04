@@ -1,0 +1,30 @@
+Day 5
+
+How to upload your HTML/CSS or any code on github.com
+
+Source Code management
+
+GIT(Software/Tool Commands)    vs GITHUB.COM(Store code here)
+
+Local -------> Remote
+
+Laptop -------> Internet (github.com)
+
+There are 5 Steps of command you have to use
+
+1. git init (initialization)
+2. git remote add origin <repo_address>
+3. git add .  (Stagging)
+4. git commit -m "Message"  (Comming)
+5. git push origin <branch_name>master
+
+master(Local) -> master(Remote)
+
+Cascading Style Sheet
+
+CSS Syntax
+selector{
+	property:value;
+}
+
+
